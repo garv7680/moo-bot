@@ -1,0 +1,20 @@
+what.is?.this\??
+(?=how).*(?=weight?)|(?=what).*(?=cows?)
+(?=cow).*(?=[fe]?male)
+(?=cow).*(?=eat)
+(?=cow).*(?=see).*(?=front)
+(?=teeth).*(?=cow)(?=.*have)
+(?=where).*(?=cows).*(?=originate)
+(?=are).*(?=cows).*(?=social)
+can cows? swim
+cows?.*(sleep)
+are cows? sacred
+(?=contribut).*(greenhouse)
+how.*stomach.*cow
+how.*cows?.*smell?
+temperature.*cows?
+do cows?.*cold.*winter
+can cows?.*color
+are cows? smart
+(do|can|are).*cows?.*cry
+(can|do).*cows?.*bite
